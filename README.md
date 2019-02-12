@@ -33,5 +33,9 @@ ________________________________________________________________________________
 
 |Home Screen (When PickUp Request is clicked and there is no driver near to you) | when you search with current location |  when you search with destination location|       
 | ------------- | ------------- | ------------- | 
-|  <img src="https://user-images.githubusercontent.com/17835207/52662052-13371200-2f0c-11e9-9f1b-f6f051b03662.png" width="260" height="400" /> |  <img src="https://user-images.githubusercontent.com/17835207/52662143-45e10a80-2f0c-11e9-9683-926a0d3a463f.png" width="260" height="400" />|<img src="https://user-images.githubusercontent.com/17835207/52594053-2f2aad00-2e53-11e9-895f-9c957af6c4c0.png" width="260" height="400"/>|
+|  <img src="https://user-images.githubusercontent.com/17835207/52662052-13371200-2f0c-11e9-9f1b-f6f051b03662.png" width="260" height="400" /> |  <img src="https://user-images.githubusercontent.com/17835207/52662143-45e10a80-2f0c-11e9-9683-926a0d3a463f.png" width="260" height="400" />| <img src="https://user-images.githubusercontent.com/17835207/52663202-c3a61580-2f0e-11e9-8e33-a72042c53a9c.png" width="260" height="400" />|
+
+| When we use search the marker will appear when a location is selected | when you select your current location and destination location a BottomView will pop up with estimated price |     
+| ------------- | ------------- |
+|  <img src="https://user-images.githubusercontent.com/17835207/52663328-15e73680-2f0f-11e9-9223-de00d0547660.png" width="260" height="400" />| <img src="https://user-images.githubusercontent.com/17835207/52663389-37482280-2f0f-11e9-850e-162b2a79eacb.png" width="260" height="400" />| 
 
